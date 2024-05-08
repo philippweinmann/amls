@@ -1,3 +1,5 @@
 nbstripout
 pyrosm
 openeo
+oauthlib
+requests-oauthlib
