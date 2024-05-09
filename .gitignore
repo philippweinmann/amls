@@ -1,7 +1,7 @@
 output/
 
-load-composite
-load-raw
+load-composite.nc
+load-raw.nc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
