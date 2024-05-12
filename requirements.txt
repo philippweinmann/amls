@@ -3,3 +3,7 @@ pyrosm
 openeo
 oauthlib
 requests-oauthlib
+
+xarray
+netCDF4
+h5netcdf
