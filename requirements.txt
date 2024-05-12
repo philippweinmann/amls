@@ -3,6 +3,9 @@ pyrosm
 openeo
 oauthlib
 requests-oauthlib
+numpy
+matplotlib
+
 
 xarray
 netCDF4
