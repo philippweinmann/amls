@@ -10,3 +10,4 @@ matplotlib
 xarray
 netCDF4
 h5netcdf
+rasterio
