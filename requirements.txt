@@ -1,10 +1,18 @@
 pyrosm
 openeo
+os
+pathlib
+geopanadas
+numpy
+torch
+matplotlib
 oauthlib
 requests-oauthlib
-numpy
-matplotlib
-
+random
+pyproj
+rasterio
+albumentations
+sklearn
 
 xarray
 netCDF4
